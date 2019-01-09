@@ -1,0 +1,1 @@
+https://test-driven-django-development.readthedocs.io/en/latest/02-models.html
